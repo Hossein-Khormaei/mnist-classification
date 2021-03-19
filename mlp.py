@@ -14,7 +14,7 @@ import torchvision
 
 # Hyper Parameters
 EPOCH = 20              # train the training data n times, to save time, we just train 1 epoch
-BATCH_SIZE = 50
+BATCH_SIZE = 70
 LR = 0.001              # learning rate
 DOWNLOAD_MNIST = False
 
